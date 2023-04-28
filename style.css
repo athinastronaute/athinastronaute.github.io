@@ -187,6 +187,10 @@ p::selection{
         font-size: 40px;
     } 
     
+    .form{
+        width:50%;
+    }
+    
 
 }
 
@@ -211,6 +215,10 @@ p::selection{
         margin: 20px auto;
         display: block;
     }
+    
+    .form{
+        width:50%;
+    }
 
 }
 
@@ -227,5 +235,8 @@ p::selection{
     }
     nav{
         top: 0;
+    }
+    .form{
+        width:50%;
     }
 }
